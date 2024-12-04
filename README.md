@@ -1,2 +1,2 @@
 # todo_app_history
- todo_app 의 코드 변화 내역입니다.
+ todo_app 의 코드 히스토리 저장소입니다. 
